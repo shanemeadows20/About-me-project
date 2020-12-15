@@ -1,3 +1,4 @@
+/* adjust heading details to different colors, font, etc */
 h1 {
 text-align: center;
 font-family: 'Courier New', Courier, monospace;
@@ -6,7 +7,7 @@ font-size: 48px;
 letter-spacing: 10px;
 text-transform: uppercase;
 }
-
+/* adjust image details */
 img {
   display: block;
   margin-left: auto;
@@ -15,7 +16,7 @@ img {
   border: solid;
   border-width: 10px;
 }
-
+/* set link color */
 a {
   color: darkgreen
 }
@@ -30,11 +31,11 @@ background-image: url('background.jpg');
 background-repeat: no-repeat;
 background-size: cover;
 }
-
+/* make all horizontal line breaks solid black by using a border */
 hr {
   border: solid;
 }
-
+/*allign everything to the center of the page*/
 p {
   text-align: center;
 }
