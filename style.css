@@ -1,0 +1,56 @@
+h1 {
+text-align: center;
+font-family: 'Courier New', Courier, monospace;
+color: black;
+font-size: 48px;
+letter-spacing: 10px;
+text-transform: uppercase;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+  border: solid;
+  border-width: 10px;
+}
+
+a {
+  color: darkgreen
+}
+
+nav {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+body {
+background-image: url('background.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+hr {
+  border: solid;
+}
+
+p {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
