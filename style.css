@@ -53,15 +53,15 @@ h3 {
   text-align: center;
 }
 
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
 li {
   text-align: center;
 }
 
 h4 {
   text-align: center;
-}
-
-ul {
-  display: table;
-  margin: 0 auto;
 }
