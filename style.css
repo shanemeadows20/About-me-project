@@ -41,6 +41,7 @@ hr {
 }
 /*allign everything to the center of the page*/
 p {
+  padding: 1em;
   text-align: center;
 }
 
