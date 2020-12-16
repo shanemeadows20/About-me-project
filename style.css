@@ -58,6 +58,10 @@ ul {
   margin: 0 auto;
 }
 
+li {
+  text-align: center;
+}
+
 ol {
   display: table;
   margin: 0 auto;
